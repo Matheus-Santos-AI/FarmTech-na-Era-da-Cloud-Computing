@@ -30,7 +30,10 @@ A Entrega 1 consistiu na análise de uma base de dados agrícola (`crop_yield.cs
 * **Modelagem:** Foram testados diversos modelos de regressão para prever o rendimento.
 * **Melhor Modelo:** O modelo **Extra Trees Regressor** apresentou os melhores resultados de predição (R² de aproximadamente 0.99).
 
-### 📺 Vídeo da Entrega 1
+### Codigo no Google Colab
+* **Link Colab** [https://colab.research.google.com/github/Matheus-Santos-AI/FarmTech-na-Era-da-Cloud-Computing/blob/main/Cap_1_FarmTech_na_Era_da_Cloud_Computing.ipynb]
+  
+### 📺 Vídeo demonstrativo da Entrega 1
 Assista à demonstração do modelo preditivo:
 * **Link:** [https://youtu.be/3umQKPlmfq4](https://youtu.be/3umQKPlmfq4)
 
@@ -42,6 +45,10 @@ Para hospedar a API de Machine Learning e processar os dados dos sensores, reali
 
 ### 💰 Comparativo de Custos (On-Demand - 100%)
 Configuração da máquina: 2 CPUs, 1 GiB RAM, 5 Gigabit de rede e 50 GB de armazenamento (EBS).
+
+### Arquivo Orçamentario Gerado
+[![PDF](https://img.shields.io/badge/Download-Orçamento_AWS-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Orçamento%20AWS%20sp%20-%20usa.pdf)
+
 
 | Região | Custo Mensal (USD) | Custo Anual (USD) |
 | :--- | :--- | :--- |
@@ -57,7 +64,7 @@ Embora a região da Virgínia do Norte seja significativamente mais barata ($5.5
 1. **Latência:** O acesso rápido aos dados dos sensores é um requisito crítico. A proximidade geográfica reduz o tempo de resposta (RTT) da API.
 2. **Conformidade Legal:** Existem restrições legais mencionadas para o armazenamento de dados no exterior. Utilizar a região de São Paulo garante que os dados permaneçam em território nacional, atendendo à LGPD e outras normas locais.
 
-### 📺 Vídeo da Entrega 2
+### 📺 Vídeo demosntrativo da Entrega 2
 Demonstração da comparação de recursos na calculadora AWS:
 * **Link:** [https://youtu.be/zbzFp9JnF70](https://youtu.be/zbzFp9JnF70)
 
