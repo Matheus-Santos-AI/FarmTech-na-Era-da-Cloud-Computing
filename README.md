@@ -15,9 +15,9 @@ Este projeto foi desenvolvido para a FarmTech Solutions, focado em fornecer solu
 * **Integrantes:**
     * Matheus de Souza Santos - RM566901
     * Ricardo José Amorin - RM567312
-    * Klaus Lohany Barbosa de Oliveira - RM
+    * Klaus Lohany Barbosa de Oliveira - RM 566994
     * Paulo Roberto Silva Amaral Ribeiro Junior - RM568413
-      
+    * Victor Oliveira Fedeli Tate - RM566823    
 
 ---
 
