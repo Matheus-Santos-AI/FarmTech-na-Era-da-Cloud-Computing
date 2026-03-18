@@ -1,5 +1,14 @@
 # Projeto FarmTech Solutions - Fase 5
 
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap (1).png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<p align="center">
+Faculdade de Informática e Administração Paulista - FIAP
+
+</p>
+
 Este projeto foi desenvolvido para a FarmTech Solutions, focado em fornecer soluções de Inteligência Artificial e Computação em Nuvem para uma fazenda de médio porte. O objetivo principal é prever o rendimento de safras e estruturar a hospedagem da solução na AWS.
 
 ## 👥 Equipe
